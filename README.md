@@ -306,4 +306,4 @@ The existing application has not been deployed or verified on Vercel or LinuxONE
 | Team | Zenvora |
 | Event | IBM Z Datathon 2026 |
 | Challenge | Wildcard — Beyond the Obvious |
-| Repository | [sathvika32427/IncidentIQ-ibmz](https://github.com/sathvika32427/IncidentIQ-ibmz) |
+| Repository |(https://github.com/LithinCodes/INCIDENTIQ_IBMZ-DATATHON-PROJECT-2026)) |
